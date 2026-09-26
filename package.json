@@ -1,19 +1,19 @@
 {
-  "name": "portifolio-playwright",
+  "name": "portfolio-playwright",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Guga-Dev10/Portifolio-Playwright.git"
+    "url": "git+https://github.com/Guga-Dev10/Portfolio-Playwright.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Guga-Dev10/Portifolio-Playwright/issues"
+    "url": "https://github.com/Guga-Dev10/Portfolio-Playwright/issues"
   },
-  "homepage": "https://github.com/Guga-Dev10/Portifolio-Playwright#readme",
+  "homepage": "https://github.com/Guga-Dev10/Portfolio-Playwright#readme",
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.62.1",

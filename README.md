@@ -20,7 +20,7 @@ Os testes são executados contra o site de demonstração [SauceDemo](https://ww
 
 ## 📁 Estrutura do Projeto
 ```text
-📦 Portifolio-Playwright
+📦 Portfolio-Playwright
  ┣ 📂 .github
  ┃ ┗ 📂 workflows
  ┃   ┗ 📜 playwright.yml    # Pipeline de CI: executa os testes a cada push/PR na main
