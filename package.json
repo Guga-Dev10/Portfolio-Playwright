@@ -1,23 +1,25 @@
 {
   "name": "portfolio-playwright",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {},
+  "description": "Portfólio de automação de testes E2E com Playwright e TypeScript",
+  "author": "Guga-Dev10",
+  "license": "ISC",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Guga-Dev10/Portfolio-Playwright.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Guga-Dev10/Portfolio-Playwright/issues"
   },
   "homepage": "https://github.com/Guga-Dev10/Portfolio-Playwright#readme",
-  "description": "",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
-    "@types/node": "^26.2.0",
-    "tsx": "^4.23.11"
+    "@types/node": "^26.2.0"
   }
 }
